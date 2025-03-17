@@ -63,7 +63,9 @@ document.addEventListener("DOMContentLoaded", function () {
             "Ayudé en la organización del Primer Congreso de Supply Chain en la UNI",
         "Worked as a private teacher for school and university students": 
             "Trabajé como profesor particular para alumnos desde primaria hasta universitarios",
-        "I made this portfolio from scratch <3": "Portafolio creado desde 0 por mí <3"
+        "I made this portfolio from scratch <3": "Portafolio creado desde 0 por mí <3",
+        "Portfolio": "Portafolio",
+        "Website about my professional trajectory": "Web sobre mi trayectoria profesional"
     };
 
     function toggleLanguage() {
