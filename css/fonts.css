@@ -1,0 +1,61 @@
+@font-face {
+    font-family: 'Orbitron';
+    font-weight: 100;
+    src: url(Fonts/Orbitron-Regular.ttf);
+}
+@font-face {
+    font-family: 'Orbitron';
+    font-weight: 200;
+    src: url(Fonts/Orbitron-Medium.ttf);
+}
+@font-face {
+    font-family: 'Orbitron';
+    font-weight: 400;
+    src: url(Fonts/Orbitron-SemiBold.ttf);
+}
+@font-face {
+    font-family: 'Orbitron';
+    font-weight: 600;
+    src: url(Fonts/Orbitron-Bold.ttf);
+}
+@font-face {
+    font-family: 'Orbitron';
+    font-weight: 800;
+    src: url(Fonts/Orbitron-ExtraBold.ttf);
+}
+@font-face {
+    font-family: 'Orbitron';
+    font-weight: 900;
+    src: url(Fonts/Orbitron-Black.ttf);
+}
+
+@font-face {
+    font-family: 'Oxanium';
+    font-weight: 100;
+    src: url(Fonts/Oxanium-Regular.ttf);
+}
+@font-face {
+    font-family: 'Oxanium';
+    font-weight: 200;
+    src: url(Fonts/Oxanium-Medium.ttf);
+}
+@font-face {
+    font-family: 'Oxanium';
+    font-weight: 400;
+    src: url(Fonts/Oxanium-SemiBold.ttf);
+}
+@font-face {
+    font-family: 'Oxanium';
+    font-weight: 600;
+    src: url(Fonts/Oxanium-Bold.ttf);
+}
+@font-face {
+    font-family: 'Oxanium';
+    font-weight: 800;
+    src: url(Fonts/Oxanium-ExtraBold.ttf);
+}
+@font-face {
+    font-family: 'Oxanium';
+    font-weight: 900;
+    src: url(Fonts/Oxanium-Black.ttf);
+}
