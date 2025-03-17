@@ -211,7 +211,7 @@ header h2::after {
 nav{
     container-name: nav;
     container-type: inline-size;
-    background-color: var(--color-background-azulito);
+    background-color: var(--color-background-oscuro);
 }
 
 .nav__pc{
@@ -342,7 +342,7 @@ nav{
 
 .responsive-enlace{
     text-decoration: none;
-    filter: drop-shadow(0px 0px 15px #000);
+    filter: drop-shadow( 0px 0px 5px var(--shadow));
     font-family: 'Orbitron';
     font-weight: 700;
     color: var(--color-texto);
@@ -373,16 +373,29 @@ nav{
     background-blend-mode: overlay;
     background-position: top;
     background-size: cover;
+    position: relative;
+}
+
+.contenido__capa{
+    position: absolute;
+    background-color: var(--color-background-oscuro-opacity);
+    width: 100%;
+    min-height: 100%;
+    top: 0;
+    z-index: 10;
+    backdrop-filter: blur(1px);
 }
 
 .aside__izquierda, .aside__derecha{
     width: 19dvw;
     margin: 0px 10px;
+    z-index: 20;
 }
 
 main{
     max-width: 55dvw;
     margin: 0px 10px;
+    z-index: 20;
 }
 
 /*      ASIDE1 CONTENT     */
@@ -1057,7 +1070,7 @@ main{
 /*          FOOTER          */
 
 footer{
-    background-color: var(--color-background-azulito);
+    background-color: var(--color-background-oscuro);
     display: flex;
     flex-direction: row;
     padding: 20px;
@@ -1284,7 +1297,7 @@ footer{
 .light-mode {
     --color-resaltante: #ca7f1c;
     --color-background-oscuro: #FAF3EC;
-    --color-background-oscuro-opacity: #E8D7C6cc;
+    --color-background-oscuro-opacity: #e6e1ddcc;
     --color-background-azulito: #E8D7C6;
     --color-elemento-oscuro: #AD7C59;
     --color-elemento-oscuro-invertido: #7A4F3D;
@@ -1301,5 +1314,5 @@ footer{
 }
 
 .light-contenido{
-    background-image: url(../Media/Contenido/bg-light.png);
+    background-image: url(../Media/Contenido/bg-light.jpg);
 }
