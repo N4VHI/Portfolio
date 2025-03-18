@@ -1,32 +1,37 @@
 # 📌 Portfolio
 
-Bienvenido a mi portafolio web. Aquí podrás encontrar información sobre mis trabajos, capacidades, experiencia profesional y más sobre mí.
+Welcome to my web portfolio! Here you will find information about my work, skills, professional experience, and more about me.
 
-## 🌎 Vista previa
+## 🌐 Live Server
+
+[https://n4vhi.github.io/Portfolio/](https://n4vhi.github.io/Portfolio/)
+
+## 🌎 Preview
 
 ![image](https://github.com/user-attachments/assets/a878c90c-a06d-4db1-a62f-894e8c4a7abc)
 
-## 🚀 Tecnologías utilizadas
+## 🚀 Technologies Used
 
-Este proyecto fue desarrollado utilizando las siguientes tecnologías:
+This project was developed using the following technologies:
 
 ### **HTML** 🏗️
 
-- Fue el lenguaje principal utilizado para hacer la estructura de la página web.
-- Usé un framework para elaborar mi archivo `index.html` con buenas prácticas y que sea capaz de adaptarse a dispositivos móviles.
+- It was the main language used to structure the web page.
+- I used a framework to build my `index.html` file with best practices and ensure responsiveness for mobile devices.
   
 ### **CSS** 🎨
 
-- **TODOS** los estilos y animaciones fueron hechos con este lenguaje.
-- Hice que puedan haber diferentes tipos de layout dependiendo del dispositivo (responsive).
-- Usé variables para poder establecer un modo claro y un modo oscuro.
+- **ALL** styles and animations were created using this language.
+- I designed different layouts depending on the device (responsive design).
+- I used variables to implement both light and dark modes.
 
 ### **JavaScript** ⚡
 
-- Lo utilicé para interconectar los switches, de modo que cuando se active uno de cierto tipo, otro se active también.
-- Creé diferentes clases para gestionar el tema claro y oscuro.
-- Implementé un diccionario con traducciones para que el portafolio pueda estar disponible en dos idiomas.
+- I used it to connect switches so that when one is activated, another can also be triggered.
+- I created different classes to manage the light and dark themes.
+- I implemented a dictionary with translations so the portfolio can be available in two languages.
 
 ---
 
-📫 ¡No dudes en contactarme si tienes alguna sugerencia o propuesta!
+📫 Feel free to contact me if you have any suggestions or proposals!
+
