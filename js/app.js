@@ -51,8 +51,8 @@ document.addEventListener("DOMContentLoaded", function () {
         "My full name is Navhi Giordano Andrade Saavedra": "Mi nombre completo es Navhi Giordano Andrade Saavedra",
         "Currently studying Systems Engineering in 'Universidad Nacional de Ingeniería'":
             "Actualmente estudio Ingeniería de Sistemas en la 'Universidad Nacional de Ingeniería'",
-        "Passionate about data analysis and web development":
-            "Apasionado por el análisis de datos y el desarrollo web",
+        "Passionate about data analysis and exploring machine learning":
+            "Apasionado por el análisis de datos y explorando machine learning",
         "Data Analysis": "Análisis de Datos",
         "Web Development": "Desarrollo Web",
         "Languages": "Lenguajes",
