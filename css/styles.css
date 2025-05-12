@@ -96,12 +96,7 @@ header h2::after {
 }
 
 .h2__principal{
-   animation: grow 16s steps(19) infinite;
-}
-
-.h2__secundario {
-    animation: grow 16s steps(18) infinite;
-    animation-delay: 8s;
+   animation: grow 8s steps(19) infinite;
 }
 
 .header__descripcion {
@@ -183,15 +178,15 @@ header h2::after {
 /*      HEADER ANIMACION        */
 
 @keyframes grow {
-    0%, 5% {
+    0%, 20% {
         max-width: 0;
     }
 
-    20%, 40%{
+    20%, 70%{
         max-width: 18ch;
     }
 
-    50%, 100% {
+    98%, 100% {
         max-width: 0;
     }
 
